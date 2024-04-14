@@ -1,12 +1,10 @@
 ### Hi there I'm Josh👋
-<!--
-**jtran6/jtran6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+
 ![alt text](https://github.com/jtran6/jtran6/blob/main/images/developer_sushi.png?raw=true)
+
+
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning AI assisted development
+- 📫 How to reach me: You can email me through here!
+- ⚡ Fun fact: Love gaming
 
