@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning AI assisted development
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: You can email me through here!
 - ⚡ Fun fact: Love gaming
 
